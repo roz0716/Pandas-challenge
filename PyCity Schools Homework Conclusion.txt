@@ -1,0 +1,9 @@
+Data Conclusion:
+
+1.The medium size school shows to have a higher passing rate than the smaller and larger schools.
+
+
+2.All of the top performing schools have proven to be all charter schools but the bottom performing schools are all district schools.
+
+
+3. A samller size have a higher overall passing rate than larger schools.
